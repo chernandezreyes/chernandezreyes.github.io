@@ -8,5 +8,3 @@ venue: 'Advanced Robotics'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'S. Shigaki, M. R. Fikri, <b>C. Hernandez-Reyes</b>, T. Sakurai, N. Ando, D. Kurabayashi, R. Kanzaki, H. Sezutsu. &quot;Animal-in-the-loop System to Investigate Adaptive Behavior&quot;, <i>Advanced Robotics</i>, Taylor & Francis, Vol. 32, No. 17, pp. 945-953, Aug. 2018.'
 ---
-
-Recommended citation: S. Shigaki, M. R. Fikri, <b>C. Hernandez-Reyes</b>, T. Sakurai, N. Ando, D. Kurabayashi, R. Kanzaki, H. Sezutsu. &quot;Animal-in-the-loop System to Investigate Adaptive Behavior&quot;, <i>Advanced Robotics</i>, Taylor & Francis, Vol. 32, No. 17, pp. 945-953, Aug. 2018.
