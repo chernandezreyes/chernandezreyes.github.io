@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cesar Hernandez Reyes"
+title                    : "Cesar Hernandez-Reyes"
 title_separator          : "-"
 name                     : &name "Cesar Hernandez Reyes"
 description              : &description "PhD candidate at Tokyo Institute of Technology"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cesar Hernandez Reyes"
+  name             : "Cesar Hernandez-Reyes"
   avatar           : "profile2.jpg"
   bio              : "PhD candidate at Dept. of Systems and Control Engineering, Tokyo Institute of Technology"
   location         : "Tokyo, Japan"
