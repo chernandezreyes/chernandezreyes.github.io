@@ -4,11 +4,11 @@ collection: teaching
 type: "Teaching Assistant and Instructor"
 permalink: /teaching/2019-tokyotechx
 venue: "Tokyo Tech Online Education Development Office"
-date: 2019-04 to present
+date: 2019-04-01
 location: "Tokyo, Japan"
 ---
 
-I work as a TA at Tokyo Tech's Online Education Development Office. More info on [edx.org](https://www.edx.org/school/tokyotechx)
+(Apr. 2019 to present) I am a teaching assistant (TA) at Tokyo Tech's Online Education Development Office. More info on [edx.org](https://www.edx.org/school/tokyotechx)
 
 ## Main tasks
 
