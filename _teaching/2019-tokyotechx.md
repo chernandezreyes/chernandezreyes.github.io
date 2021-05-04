@@ -2,7 +2,7 @@
 title: "Development of MOOCs at Tokyo Tech"
 collection: teaching
 type: "Teaching Assistant and Instructor"
-permalink: /teaching/tokyotechx
+permalink: /teaching/2019-tokyotechx
 venue: "Tokyo Tech Online Education Development Office"
 date: 2019-04 to present
 location: "Tokyo, Japan"
