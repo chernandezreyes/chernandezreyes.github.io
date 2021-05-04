@@ -3,7 +3,7 @@ title: "Acquisition of switching policy of hybrid search strategy for chemical p
 collection: talks
 type: "Domestic conference (not reviewed)"
 permalink: /talks/2019-01-24-jiritsu-bunsan
-venue: "第31回自律分散システム・シンポジウム - 31st Symposium of Distributed Autonomous Systems"
+venue: "第31回自律分散システム・シンポジウム"
 date: 2019-01-24
 location: "Osaka, Japan"
 ---
