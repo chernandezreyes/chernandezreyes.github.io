@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Mechatronics Engineering, Universidad de Monterrey, 2015
+* M.Eng. in Systems and Control Engineering, Tokyo Institute of Technology, 2018
+* Ph.D in Systems and Control Engineering, Tokyo Institute of Technology, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr. 2019 - present: Teaching Assistant
+  * Tokyo Institute of Technology, Online Education Development Office
+  * Duties: Development of contents for Massive Open Online Courses (MOOCs) on [edx.org](https://www.edx.org/school/tokyotechx)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep. 2015 - Aug. 2016: Systems Developer
+  * Castelec Internacional SA. de CV.
+  * Duties: Development of Android applications. Systems Integration
+
+* Sep. 2014 - Dec. 2014: Internship
+  * Hibot Co. 
+  * Duties: Development of embedded software for mobile robots
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C/C++, C\#, Java
+* Data analysis and AI libraries: Numpy, Scipy, Scikit-learn, Pandas, Tensorflow, OpenCV
+* Other technologies: Linux, ROS, SBCs (Raspberry Pi, Odroid, Nvidia Jetson)
+* Languages:
+  * English (fluent)
+  * Japanese (fluent)
+  * Spanish (native)
 
 Publications
 ======
@@ -53,7 +56,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
