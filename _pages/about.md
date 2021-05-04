@@ -15,7 +15,7 @@ Research
 
 Understanding and replicating olfactory behaviors of insects
 ------
-Despite the spatio-temporal complexity in the dispersion of odorant plumes, insects are excelent at searching and locating sources of chemicals. They conduct such searches in a regular basis to find food or potential mates. This is particularly impressive considering their small amount of neurons. Therefore, it would be useful to model their behavior to implement in robots with limited computational resources. 
+Despite the spatio-temporal complexity in the dispersion of odorant plumes, insects are excelent at searching and locating sources of chemicals. They conduct such searches in a regular basis to find food or potential mates. This is particularly impressive considering their small amount of neurons. Therefore, I aim to model their behavior to implement in robots with limited computational resources. 
 
 Finding a common framework for biological and artificial olfactory behaviors
 ------
